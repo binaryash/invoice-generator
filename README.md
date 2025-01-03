@@ -2,6 +2,8 @@
 
 This project is a simple **Invoice Generator** built with **React** and **Vite**. It allows users to create invoices by adding items with their names, quantities, and prices. The application provides functionality to calculate the total cost of all items, and download the generated invoice as a PDF.
 
+Website: [https://invoice-generator-theta-one.vercel.app/](https://invoice-generator-theta-one.vercel.app/)
+
 ## Features
 
 - Add multiple items to an invoice.
