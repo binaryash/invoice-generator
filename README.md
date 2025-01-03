@@ -4,6 +4,12 @@ This project is a simple **Invoice Generator** built with **React** and **Vite**
 
 Website: [https://invoice-generator-theta-one.vercel.app/](https://invoice-generator-theta-one.vercel.app/)
 
+![sample-screen](./docs/img/image.png)
+
+### Sample PDF generated
+
+![sample-pdf](./docs/img/image1.png)
+
 ## Features
 
 - Add multiple items to an invoice.
